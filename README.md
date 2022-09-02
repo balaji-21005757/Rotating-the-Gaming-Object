@@ -64,6 +64,8 @@ public class NewBehaviourScript : MonoBehaviour
 
 ## Output:
 ![output](./1.png)
+![output](./2.png)
+![output](./3.png)
 
 ## Result:
 Thus a 3D application for rotating the gaming objects in unity is developed successfully.
