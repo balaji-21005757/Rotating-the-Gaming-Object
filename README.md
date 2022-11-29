@@ -61,12 +61,6 @@ public class NewBehaviourScript : MonoBehaviour
     }
 }
 ```
-<br></br>
-<br></br>
-<br></br>
-<br></br>
-<br></br>
-<br></br>
 ## Output:
 ![output](./1.png)
 ![output](./2.png)
